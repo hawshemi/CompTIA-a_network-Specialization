@@ -12,7 +12,7 @@
 
 ### 2. [Network Support Fundamentals](https://www.coursera.org/learn/comptia-network-support-fundamentals?specialization=comptia-aplus-network)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/P3U8AP35LFHR_
 #
 
 ### 3. [Application Security Support Fundamentals](https://www.coursera.org/learn/comptia-application-security-support-fundamentals?specialization=comptia-aplus-network)
