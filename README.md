@@ -7,7 +7,7 @@
 
 ### 1. [Network Installation Fundamentals](https://www.coursera.org/learn/comptia-network-installation-fundamentals?specialization=comptia-aplus-network)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/FKPZ4NFVRDTJ_
 #
 
 ### 2. [Network Support Fundamentals](https://www.coursera.org/learn/comptia-network-support-fundamentals?specialization=comptia-aplus-network)
